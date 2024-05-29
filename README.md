@@ -1,3 +1,4 @@
+# About this repo
 This project is the coding challenge from fireship.io's React JS course, chapter Lifecycle and Effects.
 
 
