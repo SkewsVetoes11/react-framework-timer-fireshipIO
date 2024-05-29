@@ -33,6 +33,7 @@ function CountDown({ hr, min, sec }) {
   const handleReset = () => {
     setTime([hr, min, sec]);
     setPause(true);
+    setOver(false);
   };
 
   let format = (num) => {
