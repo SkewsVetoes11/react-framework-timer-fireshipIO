@@ -1,3 +1,6 @@
+This project is the coding challenge from fireship.io's React JS course, chapter Lifecycle and Effects.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
